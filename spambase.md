@@ -34,11 +34,15 @@ The models are evaluated using cross-validation on the training set and then tra
 ## Cross-Validation Results
 
 Naive Bayes Accuracy: 0.65
+
 Logistic Regression Accuracy: 0.60
+
 KNN Accuracy: 0.79
 
 ## Test Set Results
 
 Naive Bayes Accuracy: 0.68
+
 Logistic Regression Accuracy: 0.50
+
 KNN Accuracy: .80
